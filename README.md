@@ -1,2 +1,2 @@
-# OnReapat+ - OSS Project
+# OnReapat+
 
