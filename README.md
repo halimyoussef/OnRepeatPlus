@@ -26,7 +26,7 @@ OnRepeat+ is an application that allows a Spotify User to get 90 recommended son
 ## Folder data 📁
 This folder contains 2 datasets: _ddbSpotify.csv_ which contains the data of 10'000 songs and _onRepeat.csv_ which contains the data of my current songs onRepeat. In this folder will also be created a _reco.csv_ file with the song recommended to the user as well as a _ddbSpotifyInput.csv_ which contains the data of a playlist imput by the user in case they want to get the audio analysis of the whole playlist. _reco.csv_ only contains the name, artist and link of a song while the others also contains the audio features of the song 
 
-Collumns of the 'ddb' datasets:
+Columns of the 'ddb' datasets:
 | id | name | artist | lien | danceability | energy | key | loudness | speechiness | acousticness | instrumentalness | liveness | valence | tempo |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |5odlY52u43F5BjByhxg7wg | golden hour | JVKE | https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg | 0.515 | 0.593 | 4 | -4.801 | 0.0322 | 0.653 | 0.162 | 0.25 | 0.153 | 94.467 |
