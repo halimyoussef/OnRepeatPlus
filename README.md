@@ -44,7 +44,7 @@ Collumns of the 'ddb' datasets:
 + https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks
 + https://www.pythonguis.com/tutorials/create-gui-tkinter/
 
-# Lisense ©️
+# License ©️
 
 This project is licensed under the MIT License
 
