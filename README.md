@@ -15,4 +15,4 @@ OnRepeat+ is an application that allows a Spotify User to get 90 recommended son
 
 ## Libraries 📚
   + please install these libraires if your python environement doesn't have them yet ! 
-  + `pip install tk`
+  + `pip install tk` `pip install scikit-metrics` `pip install pandas`
