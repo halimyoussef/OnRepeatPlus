@@ -14,9 +14,5 @@ OnRepeat+ is an application that allows a Spotify User to get 90 recommended son
 3) install Spotify's api `pip install spotipy`
 
 ## Libraries 📚
-`import pandas as pd
-from tkinter import *
-from sklearn.metrics.pairwise import cosine_similarity
-
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth`
+  + please install these libraires if your python environement doesn't have them yet ! 
+  + `pip install tk`
