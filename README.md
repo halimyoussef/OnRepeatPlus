@@ -39,10 +39,10 @@ Collumns of the 'ddb' datasets:
 
 # References 💻
 
-+ [Spotify API Project](https://github.com/anushakuppahally/spotify-api-project)
-+ https://www.datacamp.com/tutorial/recommender-systems-python
-+ https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks
-+ https://www.pythonguis.com/tutorials/create-gui-tkinter/
++ [GitHub](https://github.com/anushakuppahally/spotify-api-project) Spotify API Project
++ [DataCamp](https://www.datacamp.com/tutorial/recommender-systems-python) Recommender systems in python
++ [Developer Spotify](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks) Documentation Spotipy
++ [PythonGuis](https://www.pythonguis.com/tutorials/create-gui-tkinter/) GUI Tkinter
 
 # License ©️
 
