@@ -4,7 +4,9 @@
 
 OnRepeat+ is an application that allows a Spotify User to get 90 recommended songs based oh their curent "On Repeat" playlist and their audio features. The recommended songs can com from either a provided dataSet containing over 10'000 songs (mainly songs in English) or the user can also provide the ID of a playlist they want to get the recommendations from. The process would hoever be slower as the application needs to fetch and process all the data on through the spotify API. If the user wants to, the recommendations can be saved in a csv file.
 
+
 ![image](https://user-images.githubusercontent.com/71267194/205450463-62fd06c5-5a35-43f0-945a-804c3e2a5c4e.png)
+
 
 
 # Getting Started 🔧
@@ -15,7 +17,7 @@ OnRepeat+ is an application that allows a Spotify User to get 90 recommended son
 
 
 ## Spotify ID 📝
-1) Creating a Spotify account and sign up for a Spotify developper's account: https://developer.spotify.com/dashboard/
+1) Creating a Spotify account and sign up for a [Spotify developper's account](https://developer.spotify.com/dashboard/)
 2) Create a new app and get the ClientID and the ClientSecret ID![ClientID and ClientSecret ID](https://user-images.githubusercontent.com/71267194/205448661-d4c553fa-9fc9-4e39-9433-5c724186cdeb.png)
 3) Install Spotify's api `pip install spotipy`
 4) Input your IDs on line 11 and 12 of the app code. `spotify_cid = 'spotify_cid'`, `spotify_secret = 'spotify_secret'`
@@ -41,6 +43,7 @@ Collumns of the 'ddb' datasets:
 
 + [GitHub](https://github.com/anushakuppahally/spotify-api-project) Spotify API Project
 + [DataCamp](https://www.datacamp.com/tutorial/recommender-systems-python) Recommender systems in python
++ [Dashboard Spotify](https://developer.spotify.com/dashboard/) Spotify dashboard
 + [Developer Spotify](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks) Documentation Spotipy
 + [PythonGuis](https://www.pythonguis.com/tutorials/create-gui-tkinter/) GUI Tkinter
 
