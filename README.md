@@ -39,7 +39,7 @@ Collumns of the 'ddb' datasets:
 
 # References 💻
 
-+ https://github.com/anushakuppahally/spotify-api-project
++ [Spotify API Project](https://github.com/anushakuppahally/spotify-api-project)
 + https://www.datacamp.com/tutorial/recommender-systems-python
 + https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks
 + https://www.pythonguis.com/tutorials/create-gui-tkinter/
