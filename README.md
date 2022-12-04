@@ -36,7 +36,7 @@ Columns of the 'ddb' datasets:
 
 + Just run the program, check the settings you want and you're good 😄
 + To find a playlist ID, share the playlist and get the ID before the question mark
-++ `https://open.spotify.com/playlist/41fbY10xQj8sBWwoDoxRA8?si=07efff2cd1b2476b -> ID is 41fbY10xQj8sBWwoDoxRA8`
+ `https://open.spotify.com/playlist/41fbY10xQj8sBWwoDoxRA8?si=07efff2cd1b2476b -> ID is 41fbY10xQj8sBWwoDoxRA8`
 
 ![Image of OnRepeat+ output](https://user-images.githubusercontent.com/71267194/205446977-3efc6e9f-cfdb-41c8-a02c-5968aaf7fa07.png)
 
