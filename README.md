@@ -24,19 +24,23 @@ OnRepeat+ is an application that allows a Spotify User to get 90 recommended son
  
  
 ## Folder data 📁
-This folder contains 4 datasets: _ddbSpotify.csv_ which contains the data of 10'000 songs and _onRepeat.csv_ which contains the data of my current songs onRepeat. In this folder will also be created a _reco.csv_ file with the song recommended to the user as well as a _ddbSpotifyInput.csv_ which contains the data of the last playlist imput by the user in case they want to get the audio analysis of the whole playlist. _reco.csv_ only contains the name, artist and link of a song while the others also contains the audio features of the song 
+This folder contains 4 datasets: _ddbSpotify.csv_ which contains the data of 10'000 songs and _onRepeat.csv_ which contains the data of my current songs onRepeat. In this folder will also created a _reco.csv_ file with the song recommended to the user as well as a _ddbSpotifyInput.csv_ which contains the data of the last playlist imput by the user in case they want another audio analysis with the same playlist. The process wouldbe faster as the songs are already fecthed and the audio analysis done ! Finally, _reco.csv_ only contains the name, artist and link of a song while the others also contains the audio features of the song 
 
 Columns of the 'ddb' datasets:
 | id | name | artist | lien | danceability | energy | key | loudness | speechiness | acousticness | instrumentalness | liveness | valence | tempo |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |5odlY52u43F5BjByhxg7wg | golden hour | JVKE | https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg | 0.515 | 0.593 | 4 | -4.801 | 0.0322 | 0.653 | 0.162 | 0.25 | 0.153 | 94.467 |
 
+COlumns of the 'reco' dataset:
+| name | artist | lien |
+| golden hour | JVKE | https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg |
 
 # Launch the project ▶️
 
 + Just run the program, check the settings you want and you're good 😄
 + To find a playlist ID, share the playlist and get the ID before the question mark
  `https://open.spotify.com/playlist/41fbY10xQj8sBWwoDoxRA8?si=07efff2cd1b2476b -> ID is 41fbY10xQj8sBWwoDoxRA8`
++ If you want to reuse an imput playlist, just write 1. Leave empty if you want to use the provided playlist
 
 ![Image of OnRepeat+ output](https://user-images.githubusercontent.com/71267194/205446977-3efc6e9f-cfdb-41c8-a02c-5968aaf7fa07.png)
 
