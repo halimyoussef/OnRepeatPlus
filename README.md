@@ -31,8 +31,9 @@ Columns of the 'ddb' datasets:
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |5odlY52u43F5BjByhxg7wg | golden hour | JVKE | https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg | 0.515 | 0.593 | 4 | -4.801 | 0.0322 | 0.653 | 0.162 | 0.25 | 0.153 | 94.467 |
 
-COlumns of the 'reco' dataset:
+Columns of the 'reco' dataset:
 | name | artist | lien |
+| --- | --- | --- |
 | golden hour | JVKE | https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg |
 
 # Launch the project ▶️
